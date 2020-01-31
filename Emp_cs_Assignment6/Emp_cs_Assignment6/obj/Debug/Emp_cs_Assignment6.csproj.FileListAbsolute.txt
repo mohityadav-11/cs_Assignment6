@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\Emp_cs_Assignment6\Emp_cs_Assignment6\bin\Debug\Emp_cs_Assignment6.exe.config
+C:\Users\DELL\source\repos\Emp_cs_Assignment6\Emp_cs_Assignment6\bin\Debug\Emp_cs_Assignment6.exe
+C:\Users\DELL\source\repos\Emp_cs_Assignment6\Emp_cs_Assignment6\bin\Debug\Emp_cs_Assignment6.pdb
+C:\Users\DELL\source\repos\Emp_cs_Assignment6\Emp_cs_Assignment6\obj\Debug\Emp_cs_Assignment6.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Emp_cs_Assignment6\Emp_cs_Assignment6\obj\Debug\Emp_cs_Assignment6.exe
+C:\Users\DELL\source\repos\Emp_cs_Assignment6\Emp_cs_Assignment6\obj\Debug\Emp_cs_Assignment6.pdb
